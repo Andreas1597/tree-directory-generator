@@ -11,4 +11,4 @@ A CLI application with Python to generate a directory tree
 
 ---
 
-Project is based on tutorial of [Real Python](realpython.com)
+Project is based on tutorial of [Real Python](https://realpython.com/)
