@@ -10,5 +10,3 @@ A CLI application with Python to generate a directory tree
 - -o, --output-file to save generated tree in given markdown file
 
 ---
-
-Project is based on tutorial of [Real Python](https://realpython.com/)
